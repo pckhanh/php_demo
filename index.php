@@ -1,8 +1,8 @@
 <html>
 <head>
-<title>PHP Test</title>
+<title>TESTING</title>
 </head>
 <body>
-<?php phpinfo(); ?>
+<?php echo "TESTING PAGE"; ?>
 </body>
 </html>
